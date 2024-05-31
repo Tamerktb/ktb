@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": ".",
+      "use": "docker"
+    }
+  ],
+  "deployments": [
+    {
+      "src": ".",
+      "use": "docker"
+    }
+  ]
+}
